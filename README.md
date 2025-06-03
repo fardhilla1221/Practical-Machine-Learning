@@ -79,7 +79,7 @@ install.packages(c("caret", "randomForest", "rpart", "rpart.plot",
 
 ## View Online
 
-📊 **[View Full Analysis Report]([https://yourusername.github.io/ML-Exercise/Analysis.html](https://fardhilla1221.github.io/Practical-Machine-Learning/Analysis.html))**
+📊 **[View Full Analysis Report](https://fardhilla1221.github.io/Practical-Machine-Learning/Analysis.html)**
 
 
 ## Technologies Used
