@@ -77,27 +77,9 @@ install.packages(c("caret", "randomForest", "rpart", "rpart.plot",
                    "corrplot", "ggplot2", "dplyr", "gbm"))
 ```
 
-### Steps
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/yourusername/ML-Exercise.git
-   ```
-
-2. **Open RStudio and set working directory**
-   ```r
-   setwd("path/to/ML-Exercise")
-   ```
-
-3. **Open and knit the R Markdown file**
-   ```r
-   # In RStudio
-   # File -> Open File -> Analysis.Rmd
-   # Click "Knit" button
-   ```
-
 ## View Online
 
-📊 **[View Full Analysis Report](https://yourusername.github.io/ML-Exercise/Analysis.html)**
+📊 **[View Full Analysis Report]([https://yourusername.github.io/ML-Exercise/Analysis.html](https://fardhilla1221.github.io/Practical-Machine-Learning/Analysis.html))**
 
 
 ## Technologies Used
@@ -126,5 +108,6 @@ This project is licensed under the MIT License - see the original data source fo
 ---
 
 **Author**:  Fardhilla Martina Haris
+
 **Date**: 03 June 2025  
 **Contact**: fardhilla11@gmail.com
